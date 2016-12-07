@@ -4,7 +4,6 @@ from .settings import Settings
 from .terminal import send_to_terminal
 from .iterm import send_to_iterm
 from .r import send_to_r
-from .rstudio import send_to_rstudio
 from .conemu import send_to_conemu, send_to_cmder
 from .tmux import send_to_tmux
 from .screen import send_to_screen
